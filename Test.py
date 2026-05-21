@@ -7,3 +7,5 @@ print("test case 3")
 print("test case 4")
 
 print("test case 5")
+
+check git fetch
